@@ -1,0 +1,17 @@
+.footer {
+  text-align: center;
+  background: darkslategray;
+  padding: 60px;
+  margin-top: 150px;
+}
+
+.links a{
+  color: white;
+  text-decoration: none;
+  font-size: 42px;
+  padding: 0px 10px;
+}
+
+.footer p{
+  color: white;
+}
